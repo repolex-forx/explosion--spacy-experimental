@@ -1,0 +1,11 @@
+{
+  "org": "explosion",
+  "repo": "spacy-experimental",
+  "versions": [
+    {
+      "commit": "66c4be536d4e69b8f6366ceb2c0ebb39079d2c89",
+      "tag": "",
+      "parsed_at": "2026-10-28T12:11:36.647153+00:00"
+    }
+  ]
+}
